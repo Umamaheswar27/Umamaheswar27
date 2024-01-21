@@ -4,12 +4,19 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umamaheswar27&label=Profile%20views&color=0e75b6&style=flat" alt="umamaheswar27" /> </p>
+- 🔭 I graduated with my bachelor of engineering in information technology at Vasireddy Venkatadri Institute of Technology.
 
+- 🤝 I’m actively looking for entry level roles to work with wonderful tech companies and happy to connect with anyone.
+  
+- 💬 I can talk about ** Java, Core Java, mySQL, Web Development*
+  
 - 🔭 I’m currently working on **Banking Mangement System**
 
 - 🌱 I’m currently learning **Java springboot**
 
 - 📫 How to reach me **saidanda2001@gmail.com**
+- 
+- Resume https://drive.google.com/file/d/1nzU1XNvGeqnLmdRvoILXLygoNx4TDhuu/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
