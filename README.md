@@ -10,8 +10,6 @@
 - 🤝 I’m actively looking for entry level roles to work with wonderful tech companies and happy to connect with anyone.
   
 - 💬 I can talk about ** Java, Core Java, mySQL, Web Development*
-  
-- 🔭 I’m currently working on **Banking Mangement System**
 
 - 🌱 I’m currently learning **Java springboot**
 
