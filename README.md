@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **saidanda2001@gmail.com**
 
-- Resume https://drive.google.com/file/d/1nzU1XNvGeqnLmdRvoILXLygoNx4TDhuu/view?usp=sharing
+- Resume https://drive.google.com/file/d/1uPYKWCsDHMu-a5nXz8wnXITpuCXnO8wD/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
