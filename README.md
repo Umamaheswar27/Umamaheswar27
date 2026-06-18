@@ -210,22 +210,6 @@ Enterprise HRMS platform streamlining employee lifecycle management and workflow
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Umamaheswar27&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umamaheswar27&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Umamaheswar27&theme=tokyonight" />
-</p>
-
----
-
 # 🚀 Open To Opportunities
 
 ### Java Full Stack Developer
