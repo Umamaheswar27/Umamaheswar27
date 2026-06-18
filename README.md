@@ -1,33 +1,241 @@
-![logo](https://github.com/Umamaheswar27/Umamaheswar27/blob/main/github-header-image.png)
-<h1 align="center">Hi 👋, I'm Uma Maheswar Danda</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+![logo](https://raw.githubusercontent.com/Umamaheswar27/Umamaheswar27/main/github-header-image.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=umamaheswar27&label=Profile%20views&color=0e75b6&style=flat" alt="umamaheswar27" /> </p>
+# Hi 👋 I'm Uma Maheswara Sai Danda
 
-- 🔭 I graduated with my bachelor of engineering in information technology at Vasireddy Venkatadri Institute of Technology.
+### Full Stack Engineer | Java | Spring Boot | Angular | Real-Time Systems | Enterprise Applications
 
-- 🤝 I’m actively looking for entry level roles to work with wonderful tech companies and happy to connect with anyone.
-  
-- 💬 I can talk about ** Java, Core Java, mySQL, Web Development*
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🌱 I’m currently learning **Java springboot**
-
-- 📫 How to reach me **saidanda2001@gmail.com**
-
-- Resume https://drive.google.com/file/d/1uPYKWCsDHMu-a5nXz8wnXITpuCXnO8wD/view?usp=sharing
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/danda-uma-maheswara-sai-9a2652209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danda uma maheswara sai" height="30" width="40" /></a>
-<a href="https://www.instagram.com/umamaheswar_danda/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="uma_maheswar__" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Umamaheswar27&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+## 🚀 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umamaheswar27&show_icons=true&locale=en&layout=compact" alt="umamaheswar27" /></p>
+Full Stack Engineer with **2.2 years of professional experience** building scalable enterprise applications using **Java, Spring Boot, Angular, REST APIs, PostgreSQL, WebSocket, RabbitMQ, and Oracle technologies**.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umamaheswar27&show_icons=true&locale=en" alt="umamaheswar27" /></p>
+I specialize in:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umamaheswar27&" alt="umamaheswar27" /></p>
+- 🚀 Enterprise Application Development
+- ⚡ Real-Time Systems & Event-Driven Architecture
+- 🔐 Authentication & Authorization (OAuth 2.0, RBAC)
+- 🌐 REST API Design & Integration
+- 🔄 Workflow Automation Platforms
+- ☁️ Modern Software Engineering Practices
+
+---
+
+## 🎯 Currently Seeking
+
+- Java Full Stack Developer Roles
+- Software Engineer Opportunities
+- Backend Engineer Roles
+- Spring Boot Developer Roles
+- Immediate Joiner Opportunities
+
+---
+
+## 💼 Professional Experience
+
+### Software Engineer
+
+Worked on enterprise-grade applications involving:
+
+- Real-Time Systems
+- Workflow Automation
+- Oracle Integrations
+- Enterprise Platforms
+- Authentication & Authorization
+- REST API Development
+- Angular Frontend Development
+
+---
+
+# 🚖 Featured Projects
+
+## VALAM
+
+### Real-Time Ride Booking Platform
+
+Built a scalable ride-booking platform using **Spring Boot, Angular, WebSocket, PostgreSQL, and Google Maps APIs**.
+
+### Key Contributions
+
+- Real-time driver & rider tracking
+- WebSocket-based communication
+- Ride lifecycle management
+- Google Maps integration
+- OAuth 2.0 Authentication
+- Role-Based Access Control (RBAC)
+- Event-driven architecture
+
+### Engineering Highlights
+
+- Reduced API polling through push-based communication
+- Live ride status synchronization
+- Low-latency location updates
+
+---
+
+## 🔄 AECCAR
+
+### Oracle Fusion Cloud Migration Platform
+
+Enterprise migration platform automating Oracle Fusion Cloud migration workflows and validation pipelines.
+
+### Key Contributions
+
+- Spring Boot API development
+- Oracle Stored Procedure Integration
+- Scheduler Audit Logging
+- Retry Mechanisms
+- Entitlement Management
+- RabbitMQ Integration
+- Workflow Automation
+
+### Engineering Highlights
+
+- Automated migration workflows
+- Failure recovery mechanisms
+- Audit tracking and monitoring
+- Enterprise Oracle integration
+
+---
+
+## 👨‍💼 RightlyHR
+
+### Human Resource Management System
+
+Enterprise HRMS platform streamlining employee lifecycle management and workflow automation.
+
+### Key Contributions
+
+- Employee onboarding & offboarding
+- Leave Management
+- Multi-Level Approval Workflows
+- Employee Information Management
+- Project Allocation Modules
+- Skill Management
+- Reporting & Dashboard Features
+- Role-Based Access Control (RBAC)
+
+### Engineering Highlights
+
+- Workflow automation
+- Employee lifecycle management
+- Centralized HR operations
+- Secure authorization mechanisms
+
+---
+
+# 🏗 Engineering Highlights
+
+✔ Real-Time Driver Tracking using WebSocket
+
+✔ Oracle Fusion Cloud Integration
+
+✔ Scheduler Audit Logging & Retry Mechanisms
+
+✔ Workflow Automation Platforms
+
+✔ Role-Based Access Control (RBAC)
+
+✔ Enterprise REST API Development
+
+✔ Approval Workflow Systems
+
+✔ Event-Driven Architectures
+
+✔ Full Stack Development using Java + Angular
+
+---
+
+# 🛠 Tech Stack
+
+## Backend
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
+
+## Frontend
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+
+## Database
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle)
+
+## Messaging & Real-Time
+
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge)
+
+## DevOps & Cloud
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+
+---
+
+# 📫 Connect With Me
+
+### Portfolio
+
+🌐 https://my-portfolio-5749.vercel.app
+
+### LinkedIn
+
+💼 https://www.linkedin.com/in/danda-uma-maheswara-sai-9a2652209/
+
+### GitHub
+
+💻 https://github.com/Umamaheswar27
+
+### Email
+
+📧 saidanda2001@gmail.com
+
+### Resume
+
+📄 Add your latest Google Drive Resume Link Here
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Umamaheswar27&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umamaheswar27&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Umamaheswar27&theme=tokyonight" />
+</p>
+
+---
+
+# 🚀 Open To Opportunities
+
+### Java Full Stack Developer
+
+### Software Engineer
+
+### Backend Engineer
+
+### Spring Boot Developer
+
+### Immediate Joiner
+
+Let's connect and build something impactful 🚀
