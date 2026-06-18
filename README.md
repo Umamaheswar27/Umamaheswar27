@@ -176,6 +176,7 @@ Enterprise HRMS platform streamlining employee lifecycle management and workflow
 ## Messaging & Real-Time
 
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge)
 
 ## DevOps & Cloud
