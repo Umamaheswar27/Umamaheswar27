@@ -202,11 +202,11 @@ Enterprise HRMS platform streamlining employee lifecycle management and workflow
 
 ### Email
 
-📧 saidanda2001@gmail.com
+📧 danda.ums009@gmail.com
 
 ### Resume
 
-📄 Add your latest Google Drive Resume Link Here
+📄 https://drive.google.com/file/d/1rxCaohRti3uAkSc07NZZUAVoR6frivXX/view?usp=sharing
 
 ---
 
