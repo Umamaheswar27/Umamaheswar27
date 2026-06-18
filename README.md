@@ -206,7 +206,7 @@ Enterprise HRMS platform streamlining employee lifecycle management and workflow
 
 ### Resume
 
-📄 https://drive.google.com/file/d/1rxCaohRti3uAkSc07NZZUAVoR6frivXX/view?usp=sharing
+📄 https://drive.google.com/file/d/1A3zZ72AUpgBDkIpwQhuoN3MnTJmIzho2/view?usp=sharing
 
 ---
 
